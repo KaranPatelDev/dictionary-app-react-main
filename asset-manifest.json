@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dictionary-app-react-main/static/css/main.e6c13ad2.css",
+    "main.js": "/dictionary-app-react-main/static/js/main.d5b86985.js",
+    "static/js/453.5500462e.chunk.js": "/dictionary-app-react-main/static/js/453.5500462e.chunk.js",
+    "index.html": "/dictionary-app-react-main/index.html",
+    "main.e6c13ad2.css.map": "/dictionary-app-react-main/static/css/main.e6c13ad2.css.map",
+    "main.d5b86985.js.map": "/dictionary-app-react-main/static/js/main.d5b86985.js.map",
+    "453.5500462e.chunk.js.map": "/dictionary-app-react-main/static/js/453.5500462e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d5b86985.js"
+  ]
+}

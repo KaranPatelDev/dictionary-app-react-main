@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://karanop001018.github.io/dictionary-app-react-main",
+  "homepage": "https://karanop001018.github.io/dictionary-app-react-main",
   "name": "dictionary-tut",
   "version": "0.1.0",
   "private": true,
@@ -19,9 +19,9 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "predeploy": "yarn build",
-    "deploy" : "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test"
   },

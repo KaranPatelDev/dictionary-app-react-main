@@ -1,4 +1,4 @@
-import { Stack, IconButton, Typography, Box } from '@material-ui/core'
+import { Box, IconButton, Stack, Typography } from '@material-ui/core'
 import { ArrowBack as BackIcon } from '@material-ui/icons'
 import { Link } from 'react-router-dom'
 
